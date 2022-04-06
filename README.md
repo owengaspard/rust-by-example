@@ -1,2 +1,2 @@
-# rust-by-example
-All the code used in Rust by Example
+# The Code in Rust by Practice
+This is the code I either wrote or copied from Rust by Practice.
