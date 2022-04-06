@@ -1,4 +1,4 @@
-// Unlike Hello, World!, this is copied from the Rust by Example code
+// Unlike Hello, World!, this is copied from the Rust by Practice code
 // because the demonstration is about comments, not the code that is
 // present here. 
 
