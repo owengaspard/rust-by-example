@@ -1,4 +1,4 @@
-// This is also directly from the Rust by Example book because it is
+// This is also directly from the Rust by Practice book because it is
 // about formatting output lines. The code doesn't work btw
 
 fn main() {
